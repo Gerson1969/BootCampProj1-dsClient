@@ -1,4 +1,4 @@
-package com.devsuperior.dsClient.services.exception;
+package com.devsuperior.dsClient.services.exceptions;
 
 public class DataBaseException  extends RuntimeException{
 	private static final long serialVersionUID = 1L;
